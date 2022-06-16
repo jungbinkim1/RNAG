@@ -23,7 +23,7 @@ rayleigh_quotient.py, Karcher_mean_spd.py, Karcher_mean_hyperbolic.py: implement
 
 limiting_convex.py, limiting_strongly_convex.py: implementations for numerical experiments in [(Kim & Yang, 2022, Appendix G)][kim2022]
 
-utils.py: additional functions (taken from [Orvieto's code][orvietocode])
+utils.py: additional functions
 
 [alimisis2021]: http://proceedings.mlr.press/v130/alimisis21a/alimisis21a-supp.pdf
 [kim2022]: https://arxiv.org/pdf/2202.02036.pdf
