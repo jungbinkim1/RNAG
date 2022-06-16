@@ -1,7 +1,5 @@
 # RNAG
-This repository includes an implementation of **Riemannian Nesterov Accelerated Gradient Method (RNAG)** in [(Kim & Yang, 2022)][kim2022]
-
-Our code is based on [Orvieto's code][orvietocode] [(Alimisis et al., 2021)][alimisis2021].
+This repository includes an implementation of **Riemannian Nesterov Accelerated Gradient Method (RNAG)** in [(Kim & Yang, 2022)][kim2022]. Our code is based on [Orvieto's code][orvietocode] [(Alimisis et al., 2021)][alimisis2021].
 
 ## Requirements
 pymanopt==0.2.5
