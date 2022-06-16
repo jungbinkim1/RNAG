@@ -15,7 +15,7 @@ numpy==1.19.5
 matplotlib==3.2.2
 
 ## Contents of this folder
-This folder contains 5 files.
+This folder contains 7 files.
 
 optimizers.py: implementation of various Riemannian optimization algorithms
 
