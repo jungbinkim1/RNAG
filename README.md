@@ -1,6 +1,8 @@
 # RNAG
 Python Implementation of Riemannian NAG
 
+Our code is based on Orvieto's code https://github.com/aorvieto/RNAGsDR (Alimisis et al., 2021).
+
 ## Requirements
 pymanopt==0.2.5
 
