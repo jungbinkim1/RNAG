@@ -1,5 +1,5 @@
 # RNAG
-This repository includes an implementation of **Riemannian Nesterov Accelerated Gradient Method (RNAG)** in [(Kim & Yang, 2022)][kim2022]. Our code is based on [Orvieto's code][orvietocode] [(Alimisis et al., 2021)][alimisis2021].
+This repository includes an implementation of **Riemannian Nesterov Accelerated Gradient Method (RNAG)** in our paper [(Kim & Yang, 2022)][kim2022]. Our code is based on [Orvieto's code][orvietocode] [(Alimisis et al., 2021)][alimisis2021].
 
 ## Requirements
 pymanopt==0.2.5
@@ -17,7 +17,7 @@ matplotlib==3.2.2
 ## Contents of this folder
 This folder contains 7 files.
 
-optimizers.py: implementation of various Riemannian optimization algorithms
+optimizers.py: implementation of various Riemannian optimization algorithms, including RNAG-C and RNAG-SC
 
 rayleigh_quotient.py, Karcher_mean_spd.py, Karcher_mean_hyperbolic.py: implementations for numerical experiments in [(Kim & Yang, 2022, Section 7)][kim2022]
 
