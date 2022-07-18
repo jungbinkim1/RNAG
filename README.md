@@ -43,5 +43,5 @@ RNAG-SC converges to the ODE [(Alimisis et al., 2020, Equation 4)][alimisis2020]
 
 [alimisis2020]: http://proceedings.mlr.press/v108/alimisis20a/alimisis20a-supp.pdf
 [alimisis2021]: http://proceedings.mlr.press/v130/alimisis21a/alimisis21a-supp.pdf
-[kim2022]: https://arxiv.org/pdf/2202.02036.pdf
+[kim2022]: https://proceedings.mlr.press/v162/kim22k.html
 [orvietocode]: https://github.com/aorvieto/RNAGsDR
